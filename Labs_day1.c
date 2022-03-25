@@ -20,7 +20,7 @@ printf("enter value of u: ");
 scanf(" %d" , &u) ;
 
 printf(" s+u = %d " , s+u  );
-printf("\n s*u = %d " , s*u  );
+printf("\n s*u = %d " , s*u );
 
 
 
