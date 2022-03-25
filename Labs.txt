@@ -1,0 +1,9 @@
+#include <stdio.h>
+void main () {
+printf("I am Hajar El_Beheiry \n" 
+       "My birth date is 1 Nov 2000\n"
+        "I am a student at Faculity of Engineering\n "	   );
+
+
+
+}
